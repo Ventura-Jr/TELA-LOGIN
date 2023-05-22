@@ -7,7 +7,7 @@ Acender em um sistema informático restrito, cujo normalmente possui informaçõ
 
 Um login por questões de segurança de dados deve ser único para cada utilizador. Uma vez logado (derivado do inglês logged) o utilizador poderá sair ou desligar-se do sistema efetuando o logout ou logoff (do inglês log out ou log off), o que terminará a sua sessão de acesso a esse sistema e o encerramento do registro no log de dados.
 
-![image](https://github.com/Ventura-Jr/NAVBAR-simples/assets/122493018/5b199d82-9cdf-43ff-9c67-61420493dbfc)
+![image](https://github.com/Ventura-Jr/TELA-LOGIN/assets/122493018/b1030085-5a97-46fe-b799-b632864a8d2d)
 
 # Desenvolvimento
 A Tela-Login foi desenvolvido utilizando as seguintes tecnologias:
